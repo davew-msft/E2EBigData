@@ -41,5 +41,5 @@ In a one day workshop we can't cover everything.  Please keep that in mind.
 
 ## Notes
 
-Due to time I removed administration.dbc and replaced it with Basics.dbc.  EH streaming was mostly removed but can be added back.
+Due to time I removed administration.dbc and replaced it with Basics.dbc.  EH streaming was mostly removed but can be added back.  If needed, restore it back.
 
