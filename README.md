@@ -11,6 +11,7 @@ Requirements:
 * develop proficiency with Spark
 * build ML models
 * Introduction to Deep Learning
+* understand the data exploration (profiling) process
 * this is a short workshop so we can't cover everything, but we want you to come away with your appetite whetted to learn more
 
 ## Audience
@@ -28,13 +29,27 @@ In a one day workshop we can't cover everything.  Please keep that in mind.
 
 0. [Provision Databricks Exercise](provision.md).  
 
-  Data files can be found at `/data`  
-  Lab files can be found at `/Labs`  
-  consider downloading Power BI if you don't have it
+    * Data files can be found at `/data`  
+    * Lab files can be found at `/Labs`  
+    * consider downloading Power BI if you don't have it
 
 1. Understand the basics of databricks
 
-  use the `Basics.dbc` file
+    * use the `Basics.dbc` file
+  run through the notebooks after importing
+
+2. [Advanced Data Exploration](advanced.md)
+
+3. [Build a Supervised Learning Model](supervised.md) 
+
+4. [Advanced Supervised Learning Models](supervised_advanced.md)
+
+5. Unsupervised Learning:  Recommenders and Clustering
+
+6. MMLSpark :  Microsoft ML tools for Spark
+
+
+
 
 
 
