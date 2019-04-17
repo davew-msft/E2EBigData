@@ -49,7 +49,10 @@ In a one day workshop we can't cover everything.  Please keep that in mind.
 6. MMLSpark :  Microsoft ML tools for Spark
 
 
+## Supplementary Information
 
+* see [Open Hack slides](OpenHack-DL/) for another deck
+* [distributed learning notebook](01_distributed_dl.ipynb)
 
 
 
